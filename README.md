@@ -1,6 +1,6 @@
 # The Future in Tech !!!! Hello World!!
 
-### You can be the teacher as well
+### You can be the teacher as well !!!
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
